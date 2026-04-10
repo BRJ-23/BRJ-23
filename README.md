@@ -9,6 +9,15 @@ In Progress..
 
 [![Calendario Vacaciones](https://github.com/BRJ-23/homepage/blob/master/images/Vacaciones.png)](https://github.com/BRJ-23/CalendarioVacaciones)
 
+<details>
+<summary>More Skills</summary>
+<br>
+Detail 1...
+<br>
+<br>
+</details>
+
+
 
 
 
