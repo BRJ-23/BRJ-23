@@ -2,11 +2,14 @@
 
 Want to know more about me? [Check out my portfolio.](https://brj-23.github.io/homepage/)  
 
+<!--
+In Progress..
+
 ## 📌 Pinned Repositories  
 
 [![Calendario Vacaciones](https://github.com/BRJ-23/homepage/blob/master/images/Vacaciones.png)](https://github.com/BRJ-23/CalendarioVacaciones)
 
-<!--
+
 
 
 **BRJ-23/BRJ-23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
