@@ -1,4 +1,6 @@
-## Hola! Me llamo Borja 👋
+## Hi! My name is Borja 👋
+
+Want to know more about me? [Check out my portfolio.](https://brj-23.github.io/homepage/)
 
 <!--
 
