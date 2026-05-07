@@ -2,6 +2,12 @@
 
 Want to know more about me? [Check out my portfolio.](https://brj-23.github.io/homepage/)  
 
+|![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BRJ-23&theme=dracula)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BRJ-23&theme=dracula)|
+|-----|------|
+
+ 
+Above stats generated with: [`tipsy/profile-summary-for-github`](https://github.com/tipsy/profile-summary-for-github)
+
 <!--
 In Progress..
 
